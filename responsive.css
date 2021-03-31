@@ -1,0 +1,131 @@
+@media(max-width:1290px){
+    ul.my-primary-menu li a {
+        padding: 10px 6px;
+        font-size: 15px;
+    }
+    .header-btn {
+        width: 51%;
+    }
+}
+@media(max-width:1200px){
+    .container.continr {
+        max-width: 100%;
+    }
+    .remove-img4{
+        display: none;
+    }
+    .about-image-text {
+        bottom: -51px;
+        right: 50px;
+    }
+    .play-btn {
+        right: 623px;
+        bottom: 13px;
+    }
+    .mx-res {
+        justify-content: space-evenly;
+    }
+    .mtnne {
+        margin-top: 0 !important;
+    }
+    .mtop {
+        margin-top: 0;
+    }
+    .main-box {
+        margin-top: 8%;
+    }
+    .hide1{
+        display: none;
+    }
+}
+@media(max-width:992px){
+    .resh {
+        width: 85%;
+    }
+    .slider-content h1 {
+        font-size: 47px;
+    }
+    .remove-img4{
+        display: none;
+    }
+    .about-image-text {
+        bottom: 4px;
+        right: 77px;
+    }
+    .about-image-text {
+        bottom: -28px;
+        right: 80px;
+    }
+    .about-image {
+        position: relative;
+        text-align: center;
+    }
+    .play-btn {
+        right: 341px;
+        bottom: 40px;
+    }
+    .calculate-rate {
+        margin-top: 60px;
+    }
+    .container-sm-sfdg {
+        max-width: 1013px;
+    }
+
+}
+@media(max-width:768px){
+    .remove-img2{
+        display: none;
+    }
+    .about-image-text {
+        bottom: -22px;
+        right: -14px;
+        height: 145px;
+        width: 196px;
+    }
+    .about-image-text-inner h2 {
+        font-size: 36px;;
+    }
+    .about-image-text-inner p {
+        color: #111;
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .play-btn {
+        right: 73px;
+        bottom: 29px;
+    }
+    .bg-color-width-fixer h2 {
+        font-size: 25px;
+        border-right: none;
+        margin-bottom: 15px;
+    }
+    .phone-caller a {
+        font-size: 27px;
+    }
+    .bg-color-width-fixer {
+        padding: 40px 60px;
+    }
+    .hide2{
+        display: none;
+    }
+}
+@media(max-width:600px){
+    .remove-img1{
+        display: none;
+    }
+}
+
+@media(max-width:470px){
+    .remove-img{
+        display: none;
+    }
+}
+@media(max-width:400px){
+    .play-btn {
+        width: 70px;
+        height: 70px;
+        font-size: 35px;
+        line-height: 70px;
+    }
+}
+

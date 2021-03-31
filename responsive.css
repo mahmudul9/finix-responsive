@@ -38,8 +38,12 @@
         display: none;
     }
 }
-@media(max-width:1000px){
-    .fas.fa-angle-down {
+@media(max-width:1100px){
+    ul.my-primary-menu li span {
+        position: relative;
+        top: 1px;
+        left: 0px;
+        font-size: 12px;
         display: none;
     }
 }
